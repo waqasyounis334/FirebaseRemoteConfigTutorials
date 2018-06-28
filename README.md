@@ -1,0 +1,11 @@
+# FirebaseRemoteConfigTutorials
+
+This repostory is for explaining the Firebase Remote Config Tutorial. That how we could use it
+
+In this code, I have implemeted Firebase Remote Config to force user update the app. 
+So, we first put the latest app version code in Firebase Remote Config Console and then fetch it values and compare it with the current version of app.
+If the current version code of app is less than the fetched app version code then we show an alert dialog asking for user to update the app.
+
+You can find the complete tutorial about what is Firebase Remote Config and how we can implement it in Android?
+
+Thanks
