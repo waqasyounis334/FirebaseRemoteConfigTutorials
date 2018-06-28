@@ -2,7 +2,7 @@
 
 ##How we can use Firebase Remote Config to force android app user to update the app?
 
-This repostory is for explaining the **Firebase Remote Config Tutorial.** That how we could use it
+###This repostory is for explaining the **Firebase Remote Config Tutorial.** That how we could use it
 
 In this code, I have implemeted Firebase Remote Config to force user update the app. 
 So, we first put the latest app version code in Firebase Remote Config Console and then fetch it values and compare it with the current version of app.
