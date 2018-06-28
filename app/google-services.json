@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779373260288",
+    "firebase_url": "https://fir-remoteconfig-tutorial.firebaseio.com",
+    "project_id": "fir-remoteconfig-tutorial",
+    "storage_bucket": "fir-remoteconfig-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779373260288:android:237b5c496cf13c65",
+        "android_client_info": {
+          "package_name": "com.androidbull.firebaseremoteconfigtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779373260288-sos8co2a8gg8m9reh5vl57644q5ku1f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1KoziAOItITMf_81bCnio77mqRARVyqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
